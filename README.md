@@ -1,4 +1,4 @@
-# Lift Foils - Dealer Portal
+# Lift Foils - Dealer Portal 
 
 Multi-board configurator with dealer application. Generates Shopify + NetSuite compatible order data.
 
